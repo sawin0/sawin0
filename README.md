@@ -27,7 +27,9 @@ I'm a passionate Mobile Developer (Android, iOS, and Flutter) from Kathmandu, Ne
 
 - **Software Developer** - [DreamSys IT Solution, Pokhara](#)
   - **Duration**: Dec 2016 – Mar 2019
-  - **Description**: [Experience Letter](https://bit.ly/experienceLetter)
+  - **Description**: Worked as mobile application developer and created Android and iOS apps
+  
+[Experience Letter](https://bit.ly/experienceLetter)
 
 ## 🛠️ Skills
 
