@@ -55,9 +55,9 @@ Here are some of my projects that I'm proud of:
 
 I'm always eager to learn and grow. Here are some of the technologies and topics I'm currently exploring:
 
-- [Flutter]
-- [Bun.sh]
-- [JavaScript]
+- Flutter
+- Bun.sh
+- JavaScript
 
 ## 🤝 Let's Connect
 
