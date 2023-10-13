@@ -8,7 +8,7 @@ I'm a passionate Mobile Developer (Android, iOS, and Flutter) from Kathmandu, Ne
 - 🔭 I'm currently working as a Mobile Team Lead.
 - 🌱 I'm constantly learning and experimenting with new technologies.
 - 🌟 Open source enthusiast and contributor.
-- 💼 [LinkedIn Profile]([https://www.linkedin.com/in/sabinranabhat](https://www.linkedin.com/in/sawin0/))
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sawin0/)
 - 🌐 [GitHub Profile](https://github.com/sawin0)
 - 📜 [Certificates](http://bit.ly/sabinCertificates)
 
