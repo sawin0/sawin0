@@ -33,7 +33,7 @@ I'm a passionate Mobile Developer (Android, iOS, and Flutter) from Kathmandu, Ne
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Flutter, Dart, Android, Java, Kotlin, iOS, Swift, Python
+- **Programming Languages**: Dart (for Flutter), Kotlin and Java (for Android development), Swift (for iOS development)
 - **Automation**: Selenium
 - **Version Control**: Git
 
