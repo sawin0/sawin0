@@ -9,7 +9,7 @@ I'm a passionate Mobile Developer (Android, iOS, and Flutter) from Kathmandu, Ne
 - 🌱 I'm constantly learning and experimenting with new technologies.
 - 🌟 Open source enthusiast and contributor.
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/sawin0/)
-- 🌐 [GitHub Profile](https://github.com/sawin0)
+- 🌐 [StackOverflow Profile](https://stackoverflow.com/users/5391008/sawin0)
 - 📜 [Certificates](http://bit.ly/sabinCertificates)
 
 ## 💼 Experience
