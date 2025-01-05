@@ -48,9 +48,9 @@ Here are some of my projects that I'm proud of:
 
 ## 📫 Contact Me
 
-- Email: binranabhat@gmail.com
+- Email: hello@sawin.com.np
 - LinkedIn: [Sabin Ranabhat](https://www.linkedin.com/in/sawin0/)
-- GitHub: [GitHub Profile](https://github.com/sawin0)
+- Portfolio: [Portfolio](https://sawin.com.np/)
 
 ## 🌱 I'm currently learning
 
