@@ -12,8 +12,6 @@ Thank you for visiting my GitHub profile! I invite you to explore my comprehensi
 
 ## 📊 GitHub Stats
 
-Here are my GitHub stats with a sleek, modern theme:
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sawin0&theme=onedark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawin0&show_icons=true&theme=onedark)
