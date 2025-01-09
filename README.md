@@ -1,64 +1,20 @@
-# 👋 Sabin Ranabhat
+# Sabin Ranabhat
+### Mobile Developer specializing in Flutter, Android & iOS
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-4CAF50)](https://sawin.com.np)
+
+## 👋 Welcome!
+Thank you for visiting my GitHub profile! I invite you to explore my comprehensive portfolio at [sawin.com.np](https://sawin.com.np), where you'll find:
+
+- 📱 Showcase of my mobile development projects
+- 💼 Detailed work experience
+- 🛠️ In-depth technical skills
 
 
-I'm a passionate Mobile Developer (Android, iOS, and Flutter) from Kathmandu, Nepal with a love for mobile development, open-source, and problem-solving. I have a strong background in Android, iOS, and Flutter app development and enjoy creating impactful software that makes people's lives better.
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/sawin0/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Follow-FE7A16)](https://stackoverflow.com/users/5391008/sawin0)
 
-## 🚀 Quick Highlights
 
-- 🔭 I'm currently working as a Mobile Team Lead.
-- 🌱 I'm constantly learning and experimenting with new technologies.
-- 🌟 Open source enthusiast and contributor.
-- 💼 [Portfolio](https://sawin.com.np)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sawin0/)
-- 🌐 [StackOverflow Profile](https://stackoverflow.com/users/5391008/sawin0)
-- 📜 [Certificates](http://bit.ly/sabinCertificates)
-
-## 💼 Experience
-
-- **Mobile Team Lead** - [Code Himalaya, Lalitpur](#)
-  - **Duration**: Aug 2021—Present
-
-- **Software Developer III** - [Nepali Coders, Lalitpur](#)
-  - **Duration**: Mar 2019 – July 2020
-  - **Description**: Worked as a mobile developer and trainer
-
-- **Software Developer** - [Worked As Freelancer, Pokhara](#)
-  - **Duration**: Mar 2019 – July 2020
-  - **Description**: Worked as a mobile developer and trainer
-
-- **Software Developer** - [DreamSys IT Solution, Pokhara](#)
-  - **Duration**: Dec 2016 – Mar 2019
-  - **Description**: Worked as mobile application developer and created Android and iOS apps
-  
-[Experience Letter](https://bit.ly/experienceLetter)
-
-## 🛠️ Skills
-
-- **Programming Languages**: Dart (for Flutter), Kotlin and Java (for Android development), Swift (for iOS development)
-- **Automation**: Selenium
-- **Version Control**: Git
-
-## 💡 Projects
-
-Here are some of my projects that I'm proud of:
-
-- [Divine — Android App](http://bit.ly/divineAndroidApp)
-- [Divine — iOS App](http://bit.ly/DivineiOSApp)
-- [Surveychan — Android App](http://bit.ly/SurveychanApp)
-
-## 📫 Contact Me
-
-- Email: hello@sawin.com.np
-- LinkedIn: [Sabin Ranabhat](https://www.linkedin.com/in/sawin0/)
-- Portfolio: [Portfolio](https://sawin.com.np/)
-
-## 🌱 I'm currently learning
-
-I'm always eager to learn and grow. Here are some of the technologies and topics I'm currently exploring:
-
-- Flutter
-- JavaScript
-
-## 🤝 Let's Connect
-
-I love collaborating and connecting with fellow developers and tech enthusiasts. Feel free to reach out to me!
+### Want to know more?
+👉 **[Visit My Portfolio](https://sawin.com.np)** for the complete showcase of my work!
