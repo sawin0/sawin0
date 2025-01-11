@@ -1,30 +1,20 @@
 # Sabin Ranabhat
-### Mobile Developer specializing in Flutter, Android & iOS
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-4CAF50)](https://sawin.com.np)
-
-## 👋 Welcome!
-Thank you for visiting my GitHub profile! I invite you to explore my comprehensive portfolio at [sawin.com.np](https://sawin.com.np), where you'll find:
-
-- 📱 Showcase of my mobile development projects
-- 💼 Detailed work experience
-- 🛠️ In-depth technical skills
-
-## 📊 GitHub Stats
+Senior Software Engineer • Mobile Platform Specialist
 
 [![wakatime](https://wakatime.com/badge/user/f0f00d81-b991-4f9f-a9cb-5677ca689281.svg)](https://wakatime.com/@f0f00d81-b991-4f9f-a9cb-5677ca689281)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sawin0&theme=onedark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawin0&show_icons=true&theme=onedark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawin0&layout=compact&theme=onedark)
-
-
-## 🔗 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-4CAF50)](https://sawin.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/sawin0/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Follow-FE7A16)](https://stackoverflow.com/users/5391008/sawin0)
 
+## 📊 GitHub Contributions
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sawin0&theme=onedark&hide_border=true)
 
-### Want to know more?
-👉 **[Visit My Portfolio](https://sawin.com.np)** for the complete showcase of my work!
+## 📱 Technology Overview
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawin0&layout=compact&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawin0&show_icons=true&theme=onedark)
+
+## 🌐 Looking for more?
+Explore my **[portfolio](https://sawin.com.np)** featuring:
+- 📱 Project showcase
+- 💼 Work experience
+- 🛠️ Technical skills
