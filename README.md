@@ -11,10 +11,11 @@ Senior Software Engineer • Mobile Platform Specialist
 
 ## 📱 Technology Overview
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sawin0&layout=compact&theme=dracula)
+</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawin0&show_icons=true&theme=dracula)
 
 ## ⌚ Coding Activity
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@f0f00d81-b991-4f9f-a9cb-5677ca689281&theme=dracula&hide_border=true)]
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@f0f00d81-b991-4f9f-a9cb-5677ca689281&theme=dracula&hide_border=true)
 
 
 ## 🌐 Looking for more?
