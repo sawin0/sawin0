@@ -12,6 +12,8 @@ Thank you for visiting my GitHub profile! I invite you to explore my comprehensi
 
 ## 📊 GitHub Stats
 
+[![wakatime](https://wakatime.com/badge/user/f0f00d81-b991-4f9f-a9cb-5677ca689281.svg)](https://wakatime.com/@f0f00d81-b991-4f9f-a9cb-5677ca689281)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sawin0&theme=onedark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawin0&show_icons=true&theme=onedark)
