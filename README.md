@@ -14,8 +14,9 @@ Senior Software Engineer • Mobile Platform Specialist
 ## 📱 Technology Overview
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sawin0&theme=aura_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sawin0&theme=aura_dark)
-</br>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sawin0&theme=aura_dark)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawin0&show_icons=true&theme=aura_dark)
 
 ## 🌐 Looking for more?
